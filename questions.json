@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of Sweden?",
+    "options": ["Stockholm", "Gothenburg", "Malmo", "Uppsala"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which year did World War II start?",
+    "options": ["1914", "1939", "1945", "1965"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Silver", "Iron"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2
+  }
+]
