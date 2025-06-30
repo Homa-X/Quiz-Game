@@ -20,7 +20,7 @@ You can find the full source code on my GitHub:
 
 ## 🖼️ Screenshots
 
-Here are some screenshots from the project (non-clickable):
+Here are some screenshots from the project:
 
 ![Home Screen](Screenshots/Home.PNG)  
 ![Question Screen](Screenshots/Question.PNG)  
